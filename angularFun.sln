@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0CA22C3E-8686-4F69-BCCA-FBC476261588}"
 	ProjectSection(SolutionItems) = preProject
 		global.json = global.json
+		README.MD = README.MD
 	EndProjectSection
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "angularFun", "src\angularFun\angularFun.xproj", "{8D888932-0711-4818-ADC6-5E7FC2C7A045}"
